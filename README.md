@@ -6,4 +6,4 @@
 
 - Python 3.5
 - Sklearn 0.18.1
-- Tensorflow 1.0.0'
+- Tensorflow 1.0.0
